@@ -20,12 +20,12 @@ Here is a description of all the component:
   to `bulbflow <http://bulbflow.com/>`_ an can be used with a Printemps server.
   Flask and Django client integration are planned.
 
-- ``printemps.query``: It's similar in purpose and spirit to Tinkerpop's
+- ``printemps.query.gql``: It's similar in purpose and spirit to Tinkerpop's
   `Gremlin <https://github.com/tinkerpop/gremlin/>`_ but doesn't make use of it.
   You can use it with embedded databases built with the core API or with the 
   client library.
 
-- Planned: ``printemps.pygq``: It allows to query a remote graphdb using pure 
+- ``printemps.pql``: It allows to query a remote graphdb using pure 
   python functions and methods defined in a custom graph database class or 
   vanilla ``printemps.core.Graph``
 
