@@ -1,0 +1,11 @@
+--2012-10-07 00:16:48--  https://raw.github.com/tinkerpop/blueprints/a4c67152f4644a33b8d80256cf9a041eb93ab243/LICENSE.txt
+Resolving raw.github.com (raw.github.com)... 207.97.227.243
+Connecting to raw.github.com (raw.github.com)|207.97.227.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1510 (1.5K) [text/plain]
+Saving to: `LICENSE.txt'
+
+     0K .                                                     100%  669M=0s
+
+2012-10-07 00:16:54 (669 MB/s) - `LICENSE.txt' saved [1510/1510]
+
