@@ -43,7 +43,7 @@ The reason of the existence of this project are multiple:
   smooth learning curve Python can have, expectially Java doesn't have 
   generators which even if not a beginner language construct can be quiet 
   useful to do 
-  `complex and efficiant lookups <http://protractileaigu.blogspot.fr/2012/09/full-text-multi-terms-search-in.html>`_. 
+  `complex and efficient lookups <http://protractileaigu.blogspot.fr/2012/09/full-text-multi-terms-search-in.html>`_. 
   ``printemps.pygq`` fixes one of the reasons why graphdb are not popular, 
   their query langugages; ``pygq`` queries are plain old Python functions, 
   which can be run against a remote ``printemps`` database.
